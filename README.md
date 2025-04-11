@@ -34,3 +34,28 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+
+How Next.js Middleware can handle route protection at an edge level
+
+Client-side route protection (using hooks)
+
+Routing in Next.js
+
+    1. Static Routes
+
+    2. Dynamic Routes
+
+    3. Catch-all Routes
+
+    4. Nested Routes
+
+Authentication & Authorization
+
+    1. Client-side protection
+
+    2. Server-side protection
+
+    3. NextAuth.js integration 
+

@@ -15,6 +15,7 @@ export default function Navbar() {
       <h1 className="font-bold">My App</h1>
       
       <Link className={linkClass('/')} href="/">Home</Link>
+      <Link className={linkClass('/dashboard')} href="/dashboard">Dashboard</Link>
       <Link className={linkClass('/client')} href="/client">Client Fetch</Link>
       <Link className={linkClass('/ssr')} href="/ssr">SSR Fetch</Link>
       <Link className={linkClass('/isr')} href="/isr">ISR Fetch</Link>
